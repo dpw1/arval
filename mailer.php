@@ -9,7 +9,7 @@
 	echo $name."+".$email."+".$phone."+".$message;
 
 	// Set the recipient email address.
-	$recipient = "henry.stuart.1983@gmail.com";
+	$recipient = "test";
 
 	// Set the email subject
 	$subject = "Novo e-mail de $name";
