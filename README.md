@@ -4,4 +4,4 @@ website for printing machines. Client allowed me to publicly expose the source c
 It contains pure HTML, CSS, Javascript (jQuery) and some jQuery plugins.
 For responsiveness I used CSS media queries instead of tools like Bootstrap (learning purposes).
 
-Check the website online at: 217.199.187.198/dpwave.com/arval/index.php
+Check the website online at: http://www.arvalmq.com
