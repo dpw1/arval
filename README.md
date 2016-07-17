@@ -1,7 +1,6 @@
 # arval
-website for printing machines. Client allowed me to publicly expose the source code. Designed and 100% hand coded by me :)
+website for printing machines. Client allowed me to publicly expose the source code. It was designed and 100% hand coded by me.
 
-It contains pure HTML, CSS, Javascript (jQuery) and some jQuery plugins.
-For responsiveness I used CSS media queries instead of frameworks.
+No frameworks were used for responsiveness.
 
 Check the website online at: http://www.arvalmq.com
